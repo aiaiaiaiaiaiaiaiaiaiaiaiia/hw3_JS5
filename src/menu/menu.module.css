@@ -1,0 +1,15 @@
+.menu{
+    display: flex;  
+    justify-content: space-between;
+    list-style: none;
+}
+
+h2{
+    font-family: 'Noto Serif HK', serif;
+    font-size: 38px;
+}
+
+i{
+    font-size: 38px;
+    color: rgb(143, 182, 233);
+}
